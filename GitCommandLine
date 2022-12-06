@@ -1,0 +1,7 @@
+
+
+
+git help                                Помощь, документация
+git help название _команды		        Документация по конкретной команде	
+sudo apt install git                    Установить Git (Ubuntu etc)
+git или git --version                   Проверка версии
